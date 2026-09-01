@@ -9,7 +9,7 @@ resource_groups = {
     location = "centralindia"
   }
   rg3 = {
-    name     = "example-rg3"
+    name     = "example-rg4"
     location = "centralindia"
 }
 virtual_networks = {
