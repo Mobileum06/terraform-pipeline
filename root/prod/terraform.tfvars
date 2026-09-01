@@ -12,6 +12,7 @@ resource_groups = {
     name     = "example-rg4"
     location = "centralindia"
 }
+}
 virtual_networks = {
   vnet1 = {
     name                = "example-vnet1"
